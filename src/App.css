@@ -1,0 +1,51 @@
+* {
+  font-size: 1.8rem;
+}
+.display {
+  background-color: rgba(128, 128, 128, 0.412);
+  box-shadow:0px 0px 0px 10px black inset;
+  border-radius: 0.2rem;
+  color: black;
+  word-wrap: break-word;
+  height: 4rem;
+  margin: auto;
+  margin-top: 2.5rem;
+  max-width: 12rem;
+  line-height: 1.7rem;
+  overflow-x: scroll;
+  overflow: hidden;
+}
+.buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  min-width: fit-content;
+}
+button:hover{
+  background-color: rgba(20, 20, 20, 0.612);
+}
+.keys-1{
+  color: red;
+}
+button {
+  background-color: black;
+  width: 3rem;
+  height: 3rem;
+  color: white;
+  padding: 0.2rem;
+  cursor: pointer;
+}
+.ce  {
+  width: 5.95rem;
+}
+.zero {
+  width: 3rem;
+}
+.display-text {
+  margin: 0 12px;
+  font-size: 35px;
+}
+.display {
+  text-align: center;
+}
