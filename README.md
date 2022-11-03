@@ -1,3 +1,5 @@
+<img src="/home/daniel/projetos/basic-calculator/basic-calculator/src/calc.png" />
+
 English below
 
 Neste tradicional projeto de calculadora, foram utilizadas as linguagens HTML, CSS e Javascript, além da biblioteca React.
