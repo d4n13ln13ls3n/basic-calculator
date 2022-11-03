@@ -1,4 +1,4 @@
-<img src="/home/daniel/projetos/basic-calculator/basic-calculator/src/calc.png" />
+![calc](https://user-images.githubusercontent.com/92753791/199849219-39c70112-f95f-4f4e-87d3-abad6bfa47b5.png)
 
 English below
 
